@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-⚡ I’m Currently Learning Web Penetration
+⚡ I’m Currently Learning Web Penetration <br>
 👾 Bug Hunter | Student
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500"> 
