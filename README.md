@@ -1,6 +1,6 @@
 # Burpsuitepro
+[Download Professional Version 2022.8.5 JAR]( https://portswigger.net/burp/releases/professional-community-2022-8-5 )
 
-Download Professional version JAR https://portswigger.net/burp/releases/professional-community-2022-8-5
 
 
 ## Follow Me Here
@@ -37,6 +37,8 @@ Go to the Directory
 ```
 
 [Download Professional Version 2022.8.5 JAR]( https://portswigger.net/burp/releases/professional-community-2022-8-5 )
+
+Paste the JAR File in Same Folder of Burploader
 
 
 # Enjoy !!!
