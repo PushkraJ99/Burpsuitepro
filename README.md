@@ -36,7 +36,7 @@ Go to the Directory
   cd Burpsuitepro
 ```
 
-[Download Professional Version 2022.8.5 JAR] ( https://portswigger.net/burp/releases/professional-community-2022-8-5 )
+[Download Professional Version 2022.8.5 JAR]( https://portswigger.net/burp/releases/professional-community-2022-8-5 )
 
 
 # Enjoy !!!
